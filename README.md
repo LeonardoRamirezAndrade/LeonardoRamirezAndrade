@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/leonard93334175" target="blank"><img src="https://img.shields.io/twitter/follow/leonard93334175?logo=twitter&style=for-the-badge" alt="leonard93334175" /></a> </p>
 
-- 🔭 I’m currently working on **Book Up**
+- 🔭 I’m currently working on **My life**
 
 - 🌱 I’m currently learning **Courses**
 
